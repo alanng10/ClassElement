@@ -15,3 +15,7 @@ ClassElement require System Audio scale.
 ClassElement require System Storage scale.
 
 ClassElement require System Network scale.
+
+ClassElement require Edit scale.
+
+ClassElement require Termina scale.
