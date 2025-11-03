@@ -16,6 +16,10 @@ ClassElement require System Storage scale.
 
 ClassElement require System Network scale.
 
+ClassElement require Edit.
+
 ClassElement require Edit scale.
+
+ClassElement require Termina.
 
 ClassElement require Termina scale.
