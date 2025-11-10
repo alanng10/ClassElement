@@ -23,3 +23,5 @@ ClassElement require Edit scale.
 ClassElement require Termina.
 
 ClassElement require Termina scale.
+
+ClassElement require TotalDone MARK MARK MARK PARK PARK MARK PARK MARK DARK.
